@@ -1,0 +1,6 @@
+classes= 1
+train = jiyan/data/train.txt
+valid = jiyan/data/valid.txt
+names = /home/geng/darknet/jiyan/data/yolo.names
+backup = jiyan/backup
+

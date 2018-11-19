@@ -1,0 +1,2 @@
+/home/geng/darknet/jiyan/data/train/1530942834.jpg
+/home/geng/darknet/jiyan/data/train/1530942839.jpg

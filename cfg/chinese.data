@@ -1,0 +1,6 @@
+classes=3604
+train  = chinese_classify/data/train.list
+valid  = chinese_classify/data/valid.list
+labels = /home/geng/darknet/chinese_classify/data/labels.txt
+backup = chinese_classify/backup
+top=100

@@ -1,0 +1,2 @@
+/home/geng/darknet/jiyan/data/valid/1530951687.jpg
+/home/geng/darknet/jiyan/data/valid/1530951693.jpg
