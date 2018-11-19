@@ -1,6 +1,6 @@
 # 破解极验点击验证码
 
-国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)中的验证码是按语序点击汉字，如下图所示：
+[国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)中的验证码是按语序点击汉字，如下图所示：
 
 ![验证码](./doc_images/gsxt.png)
 
